@@ -1,14 +1,4 @@
-# Tetris
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/raras-projects-c09efb7e/v0-tetris)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/zE6QKWkEwkm)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
 ## Deployment
 
@@ -16,15 +6,20 @@ Your project is live at:
 
 **[https://vercel.com/raras-projects-c09efb7e/v0-tetris](https://vercel.com/raras-projects-c09efb7e/v0-tetris)**
 
-## Build your app
+##Puzzle Game Application
 
-Continue building your app on:
+This is an interactive puzzle game application developed using TypeScript, JavaScript, and CSS. The game challenges users with engaging puzzles designed to test logic and problem-solving skills. It features a clean and responsive user interface, smooth animations, and intuitive controls to provide an enjoyable gaming experience across different devices.
 
-**[https://v0.dev/chat/projects/zE6QKWkEwkm](https://v0.dev/chat/projects/zE6QKWkEwkm)**
+##Key Features:
 
-## How It Works
+Built with strong typing support using TypeScript for enhanced code quality and maintainability.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Dynamic game mechanics implemented with JavaScript.
+
+Styled with modern CSS for a visually appealing layout and smooth transitions.
+
+Responsive design to ensure compatibility on desktops, tablets, and mobile devices.
+
+Easy to extend and customize with modular code structure.
+
+Feel free to explore, contribute, or suggest improvements!
