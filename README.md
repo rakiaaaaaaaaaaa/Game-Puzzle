@@ -19,5 +19,8 @@ Styled with modern CSS for a visually appealing layout and smooth transitions.
 Responsive design to ensure compatibility on desktops, tablets, and mobile devices.
 
 Easy to extend and customize with modular code structure.
+![2](https://github.com/user-attachments/assets/9ac95eeb-ae16-43b8-a4fd-45172c13d4ad)
+![1](https://github.com/user-attachments/assets/f2578a36-f264-4c23-882e-ed0e7c355eae)
+![3](https://github.com/user-attachments/assets/4a972325-0492-4f99-aa5e-3695390c759c)
 
-Feel free to explore, contribute, or suggest improvements!
+
