@@ -6,11 +6,11 @@ Your project is live at:
 
 **[https://vercel.com/raras-projects-c09efb7e/v0-tetris](https://vercel.com/raras-projects-c09efb7e/v0-tetris)**
 
-##Puzzle Game Application
+## Puzzle Game Application
 
 This is an interactive puzzle game application developed using TypeScript, JavaScript, and CSS. The game challenges users with engaging puzzles designed to test logic and problem-solving skills. It features a clean and responsive user interface, smooth animations, and intuitive controls to provide an enjoyable gaming experience across different devices.
 
-##Key Features:
+## Key Features:
 
 Built with strong typing support using TypeScript for enhanced code quality and maintainability.
 
